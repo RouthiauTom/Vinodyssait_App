@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1160 1220" width="1160" height="1220">
+<rect width="1160" height="1220" fill="white"/>
+<text x="80" y="35" font-family="sans-serif" font-size="24">Vinodys’Sait — support de relevé du plateau</text>
+<text x="80" y="65" font-family="sans-serif" font-size="16">Grille de mesure uniquement : aucune case ni extrémité d’effet n’est validée.</text>
+<image x="80" y="110" width="1000" height="1000" href="Plateau_original.png" xlink:href="Plateau_original.png"/>
+<path d="M 80 110 V 1110 M 80 110 H 1080" stroke="white" stroke-opacity="0.55" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="80" y="100" text-anchor="middle" font-family="sans-serif" font-size="14">0.0</text>
+<text x="65" y="115" text-anchor="end" font-family="sans-serif" font-size="14">0.0</text>
+<path d="M 180 110 V 1110 M 80 210 H 1080" stroke="white" stroke-opacity="0.55" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="180" y="100" text-anchor="middle" font-family="sans-serif" font-size="14">0.1</text>
+<text x="65" y="215" text-anchor="end" font-family="sans-serif" font-size="14">0.1</text>
+<path d="M 280 110 V 1110 M 80 310 H 1080" stroke="white" stroke-opacity="0.55" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="280" y="100" text-anchor="middle" font-family="sans-serif" font-size="14">0.2</text>
+<text x="65" y="315" text-anchor="end" font-family="sans-serif" font-size="14">0.2</text>
+<path d="M 380 110 V 1110 M 80 410 H 1080" stroke="white" stroke-opacity="0.55" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="380" y="100" text-anchor="middle" font-family="sans-serif" font-size="14">0.3</text>
+<text x="65" y="415" text-anchor="end" font-family="sans-serif" font-size="14">0.3</text>
+<path d="M 480 110 V 1110 M 80 510 H 1080" stroke="white" stroke-opacity="0.55" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="480" y="100" text-anchor="middle" font-family="sans-serif" font-size="14">0.4</text>
+<text x="65" y="515" text-anchor="end" font-family="sans-serif" font-size="14">0.4</text>
+<path d="M 580 110 V 1110 M 80 610 H 1080" stroke="white" stroke-opacity="0.55" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="580" y="100" text-anchor="middle" font-family="sans-serif" font-size="14">0.5</text>
+<text x="65" y="615" text-anchor="end" font-family="sans-serif" font-size="14">0.5</text>
+<path d="M 680 110 V 1110 M 80 710 H 1080" stroke="white" stroke-opacity="0.55" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="680" y="100" text-anchor="middle" font-family="sans-serif" font-size="14">0.6</text>
+<text x="65" y="715" text-anchor="end" font-family="sans-serif" font-size="14">0.6</text>
+<path d="M 780 110 V 1110 M 80 810 H 1080" stroke="white" stroke-opacity="0.55" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="780" y="100" text-anchor="middle" font-family="sans-serif" font-size="14">0.7</text>
+<text x="65" y="815" text-anchor="end" font-family="sans-serif" font-size="14">0.7</text>
+<path d="M 880 110 V 1110 M 80 910 H 1080" stroke="white" stroke-opacity="0.55" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="880" y="100" text-anchor="middle" font-family="sans-serif" font-size="14">0.8</text>
+<text x="65" y="915" text-anchor="end" font-family="sans-serif" font-size="14">0.8</text>
+<path d="M 980 110 V 1110 M 80 1010 H 1080" stroke="white" stroke-opacity="0.55" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="980" y="100" text-anchor="middle" font-family="sans-serif" font-size="14">0.9</text>
+<text x="65" y="1015" text-anchor="end" font-family="sans-serif" font-size="14">0.9</text>
+<path d="M 1080 110 V 1110 M 80 1110 H 1080" stroke="white" stroke-opacity="0.55" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="1080" y="100" text-anchor="middle" font-family="sans-serif" font-size="14">1.0</text>
+<text x="65" y="1115" text-anchor="end" font-family="sans-serif" font-size="14">1.0</text>
+<text x="1080" y="85" text-anchor="end" font-family="sans-serif" font-size="14">x →</text>
+<text x="20" y="125" font-family="sans-serif" font-size="14">y ↓</text>
+<text x="80" y="1150" font-family="sans-serif" font-size="16">Origine : coin supérieur gauche de l’image. Centres normalisés : x = pixel / 1000, y = pixel / 1000.</text>
+<text x="80" y="1180" font-family="sans-serif" font-size="16">À annoter : ordre des cases, catégories/régions, départ/arrivée des échelles et du tapis.</text>
+</svg>

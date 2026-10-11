@@ -1,0 +1,751 @@
+{
+  "schemaVersion": 1,
+  "status": "validated_by_owner",
+  "sourceArchive": "VinodysSait_Game.zip",
+  "sourceEntry": "VinodysSait_Game/vinodys-sait-frontend/src/components/assets/Plateau_france.png",
+  "sourceDimensions": {
+    "width": 1000,
+    "height": 1000
+  },
+  "spaceCount": 60,
+  "startSpaceId": 0,
+  "finishSpaceId": 60,
+  "spaces": [
+    {
+      "id": 1,
+      "order": 1,
+      "x": 0.366,
+      "y": 0.391,
+      "color": "region",
+      "categoryId": 5,
+      "regionId": 1,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 2,
+      "order": 2,
+      "x": 0.41,
+      "y": 0.386,
+      "color": "blue",
+      "categoryId": 1,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 3,
+      "order": 3,
+      "x": 0.461,
+      "y": 0.371,
+      "color": "green",
+      "categoryId": 2,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 4,
+      "order": 4,
+      "x": 0.506,
+      "y": 0.35,
+      "color": "black",
+      "categoryId": 3,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 5,
+      "order": 5,
+      "x": 0.539,
+      "y": 0.33,
+      "color": "red",
+      "categoryId": 4,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 6,
+      "order": 6,
+      "x": 0.572,
+      "y": 0.303,
+      "color": "blue",
+      "categoryId": 1,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 7,
+      "order": 7,
+      "x": 0.605,
+      "y": 0.274,
+      "color": "region",
+      "categoryId": 5,
+      "regionId": 2,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 8,
+      "order": 8,
+      "x": 0.641,
+      "y": 0.253,
+      "color": "green",
+      "categoryId": 2,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 9,
+      "order": 9,
+      "x": 0.687,
+      "y": 0.243,
+      "color": "black",
+      "categoryId": 3,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 10,
+      "order": 10,
+      "x": 0.732,
+      "y": 0.249,
+      "color": "red",
+      "categoryId": 4,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 11,
+      "order": 11,
+      "x": 0.777,
+      "y": 0.268,
+      "color": "blue",
+      "categoryId": 1,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 12,
+      "order": 12,
+      "x": 0.79,
+      "y": 0.3,
+      "color": "region",
+      "categoryId": 5,
+      "regionId": 3,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 13,
+      "order": 13,
+      "x": 0.794,
+      "y": 0.347,
+      "color": "green",
+      "categoryId": 2,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 14,
+      "order": 14,
+      "x": 0.773,
+      "y": 0.386,
+      "color": "black",
+      "categoryId": 3,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 15,
+      "order": 15,
+      "x": 0.733,
+      "y": 0.407,
+      "color": "red",
+      "categoryId": 4,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 16,
+      "order": 16,
+      "x": 0.69,
+      "y": 0.416,
+      "color": "blue",
+      "categoryId": 1,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 17,
+      "order": 17,
+      "x": 0.647,
+      "y": 0.414,
+      "color": "region",
+      "categoryId": 5,
+      "regionId": 4,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 18,
+      "order": 18,
+      "x": 0.602,
+      "y": 0.42,
+      "color": "green",
+      "categoryId": 2,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 19,
+      "order": 19,
+      "x": 0.555,
+      "y": 0.42,
+      "color": "black",
+      "categoryId": 3,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 20,
+      "order": 20,
+      "x": 0.51,
+      "y": 0.422,
+      "color": "red",
+      "categoryId": 4,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 21,
+      "order": 21,
+      "x": 0.463,
+      "y": 0.436,
+      "color": "blue",
+      "categoryId": 1,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 22,
+      "order": 22,
+      "x": 0.445,
+      "y": 0.472,
+      "color": "green",
+      "categoryId": 2,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 23,
+      "order": 23,
+      "x": 0.469,
+      "y": 0.498,
+      "color": "black",
+      "categoryId": 3,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 24,
+      "order": 24,
+      "x": 0.517,
+      "y": 0.499,
+      "color": "red",
+      "categoryId": 4,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 25,
+      "order": 25,
+      "x": 0.562,
+      "y": 0.495,
+      "color": "blue",
+      "categoryId": 1,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 26,
+      "order": 26,
+      "x": 0.609,
+      "y": 0.491,
+      "color": "region",
+      "categoryId": 5,
+      "regionId": 5,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 27,
+      "order": 27,
+      "x": 0.64,
+      "y": 0.519,
+      "color": "black",
+      "categoryId": 3,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 28,
+      "order": 28,
+      "x": 0.668,
+      "y": 0.551,
+      "color": "region",
+      "categoryId": 5,
+      "regionId": 6,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 29,
+      "order": 29,
+      "x": 0.704,
+      "y": 0.572,
+      "color": "red",
+      "categoryId": 4,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 30,
+      "order": 30,
+      "x": 0.748,
+      "y": 0.601,
+      "color": "blue",
+      "categoryId": 1,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 31,
+      "order": 31,
+      "x": 0.786,
+      "y": 0.629,
+      "color": "green",
+      "categoryId": 2,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 32,
+      "order": 32,
+      "x": 0.792,
+      "y": 0.67,
+      "color": "black",
+      "categoryId": 3,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 33,
+      "order": 33,
+      "x": 0.755,
+      "y": 0.704,
+      "color": "red",
+      "categoryId": 4,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 34,
+      "order": 34,
+      "x": 0.705,
+      "y": 0.705,
+      "color": "region",
+      "categoryId": 5,
+      "regionId": 7,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 35,
+      "order": 35,
+      "x": 0.662,
+      "y": 0.711,
+      "color": "blue",
+      "categoryId": 1,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 36,
+      "order": 36,
+      "x": 0.62,
+      "y": 0.715,
+      "color": "green",
+      "categoryId": 2,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 37,
+      "order": 37,
+      "x": 0.585,
+      "y": 0.716,
+      "color": "region",
+      "categoryId": 5,
+      "regionId": 8,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 38,
+      "order": 38,
+      "x": 0.533,
+      "y": 0.712,
+      "color": "black",
+      "categoryId": 3,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 39,
+      "order": 39,
+      "x": 0.489,
+      "y": 0.703,
+      "color": "red",
+      "categoryId": 4,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 40,
+      "order": 40,
+      "x": 0.457,
+      "y": 0.677,
+      "color": "blue",
+      "categoryId": 1,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 41,
+      "order": 41,
+      "x": 0.43,
+      "y": 0.633,
+      "color": "green",
+      "categoryId": 2,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 42,
+      "order": 42,
+      "x": 0.403,
+      "y": 0.593,
+      "color": "black",
+      "categoryId": 3,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 43,
+      "order": 43,
+      "x": 0.366,
+      "y": 0.569,
+      "color": "red",
+      "categoryId": 4,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 44,
+      "order": 44,
+      "x": 0.326,
+      "y": 0.573,
+      "color": "region",
+      "categoryId": 5,
+      "regionId": 9,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 45,
+      "order": 45,
+      "x": 0.311,
+      "y": 0.612,
+      "color": "blue",
+      "categoryId": 1,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 46,
+      "order": 46,
+      "x": 0.306,
+      "y": 0.657,
+      "color": "green",
+      "categoryId": 2,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 47,
+      "order": 47,
+      "x": 0.315,
+      "y": 0.705,
+      "color": "black",
+      "categoryId": 3,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 48,
+      "order": 48,
+      "x": 0.35,
+      "y": 0.731,
+      "color": "red",
+      "categoryId": 4,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 49,
+      "order": 49,
+      "x": 0.4,
+      "y": 0.745,
+      "color": "blue",
+      "categoryId": 1,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 50,
+      "order": 50,
+      "x": 0.444,
+      "y": 0.767,
+      "color": "green",
+      "categoryId": 2,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 51,
+      "order": 51,
+      "x": 0.482,
+      "y": 0.795,
+      "color": "black",
+      "categoryId": 3,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 52,
+      "order": 52,
+      "x": 0.511,
+      "y": 0.823,
+      "color": "red",
+      "categoryId": 4,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 53,
+      "order": 53,
+      "x": 0.54,
+      "y": 0.858,
+      "color": "blue",
+      "categoryId": 1,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 54,
+      "order": 54,
+      "x": 0.576,
+      "y": 0.882,
+      "color": "green",
+      "categoryId": 2,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 55,
+      "order": 55,
+      "x": 0.623,
+      "y": 0.89,
+      "color": "black",
+      "categoryId": 3,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 56,
+      "order": 56,
+      "x": 0.67,
+      "y": 0.885,
+      "color": "red",
+      "categoryId": 4,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 57,
+      "order": 57,
+      "x": 0.716,
+      "y": 0.879,
+      "color": "blue",
+      "categoryId": 1,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 58,
+      "order": 58,
+      "x": 0.762,
+      "y": 0.87,
+      "color": "green",
+      "categoryId": 2,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 59,
+      "order": 59,
+      "x": 0.804,
+      "y": 0.862,
+      "color": "black",
+      "categoryId": 3,
+      "regionId": null,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    },
+    {
+      "id": 60,
+      "order": 60,
+      "x": 0.848,
+      "y": 0.852,
+      "color": "region",
+      "categoryId": 5,
+      "regionId": 10,
+      "status": "validated_by_owner",
+      "sourceReference": "Plateau_original.png; manual visual observation"
+    }
+  ],
+  "effects": [
+    {
+      "id": "ladder_1",
+      "type": "ladder",
+      "fromSpaceId": 4,
+      "toSpaceId": 19,
+      "status": "validated_by_owner"
+    },
+    {
+      "id": "ladder_2",
+      "type": "ladder",
+      "fromSpaceId": 27,
+      "toSpaceId": 38,
+      "status": "validated_by_owner"
+    },
+    {
+      "id": "conveyor_1",
+      "type": "conveyor",
+      "fromSpaceId": 56,
+      "toSpaceId": 33,
+      "status": "validated_by_owner"
+    }
+  ],
+  "validatedDecisions": {
+    "regionCirclesCountAsSpaces": true,
+    "initialPosition": "departure_space",
+    "departureDistinctFromLoire": true,
+    "firstSpaceAfterDeparture": "loire_region_circle",
+    "regionCircleQuestion": {
+      "categoryId": 5,
+      "regionSource": "landed_region_circle",
+      "levelSelection": false
+    },
+    "finishRule": {
+      "overshoot": "clamp_to_corsica",
+      "victoryRequiresCorrectAnswer": true,
+      "finalQuestion": {
+        "categoryId": 5,
+        "region": "corsica",
+        "levelSelection": false
+      },
+      "incorrectAnswer": "return_to_position_before_roll_after_correction"
+    },
+    "segmentColorCategories": {
+      "blue": 1,
+      "green": 2,
+      "black": 3,
+      "red": 4
+    },
+    "ladderResolution": {
+      "movementBeforeQuestion": true,
+      "questionSource": "ladder_destination_space",
+      "incorrectAnswer": "return_to_position_before_roll_after_correction"
+    },
+    "specialEffectTrigger": "landing_only",
+    "conveyorResolution": {
+      "correctPrimeur": "move_to_lower_endpoint",
+      "correctGrandCru": "move_to_lower_endpoint",
+      "correctMillesime": "stay_on_landed_space",
+      "incorrectAnswer": "return_to_position_before_roll_after_correction",
+      "timeout": "return_to_position_before_roll_after_correction",
+      "afterDescent": {
+        "askAnotherQuestion": false,
+        "turnEnds": true,
+        "nextPlayerTrigger": "explicit_button"
+      }
+    },
+    "spaceCountExcludesDeparture": true
+  },
+  "start": {
+    "id": 0,
+    "x": 0.306,
+    "y": 0.392,
+    "status": "validated_by_owner"
+  },
+  "sourceImageSha256": "77c5f48c3a3a9e2ea610c82af0f256151145f617aae21cd070b1b5ad4c95e946"
+}

@@ -1,0 +1,62 @@
+name: Tests et publication GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    permissions:
+      contents: read
+      pages: read
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+          cache: npm
+      - name: Installer les dépendances
+        run: npm ci
+      - name: Tests du moteur et des sauvegardes
+        run: npm test
+      - name: Compiler l’application et son cache hors ligne
+        run: npm run build
+      - name: Installer Chromium pour les tests
+        run: npx playwright install --with-deps chromium
+      - name: Tester les parcours de jeu
+        run: npm run test:e2e
+      - name: Tester le hors ligne et les mises à jour
+        run: npm run test:pwa
+      - name: Vérifier les fichiers destinés à la publication
+        run: node scripts/check-pages.mjs
+      - name: Préparer GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Transmettre uniquement le site compilé
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publier
+        id: deployment
+        uses: actions/deploy-pages@v4

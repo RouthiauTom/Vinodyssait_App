@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1160" width="1000" height="1160">
+<rect width="1000" height="1160" fill="white"/>
+<image width="1000" height="1000" href="Plateau_original.png" xlink:href="Plateau_original.png"/>
+<g font-family="sans-serif" font-size="13" font-weight="bold" text-anchor="middle">
+<circle cx="306" cy="392" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="306" y="396.5" fill="#111">0</text>
+<circle cx="366" cy="391" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="366" y="395.5" fill="#111">1</text>
+<circle cx="410" cy="386" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="410" y="390.5" fill="#111">2</text>
+<circle cx="461" cy="371" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="461" y="375.5" fill="#111">3</text>
+<circle cx="506" cy="350" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="506" y="354.5" fill="#111">4</text>
+<circle cx="539" cy="330" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="539" y="334.5" fill="#111">5</text>
+<circle cx="572" cy="303" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="572" y="307.5" fill="#111">6</text>
+<circle cx="605" cy="274" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="605" y="278.5" fill="#111">7</text>
+<circle cx="641" cy="253" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="641" y="257.5" fill="#111">8</text>
+<circle cx="687" cy="243" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="687" y="247.5" fill="#111">9</text>
+<circle cx="732" cy="249" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="732" y="253.5" fill="#111">10</text>
+<circle cx="777" cy="268" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="777" y="272.5" fill="#111">11</text>
+<circle cx="790" cy="300" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="790" y="304.5" fill="#111">12</text>
+<circle cx="794" cy="347" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="794" y="351.5" fill="#111">13</text>
+<circle cx="773" cy="386" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="773" y="390.5" fill="#111">14</text>
+<circle cx="733" cy="407" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="733" y="411.5" fill="#111">15</text>
+<circle cx="690" cy="416" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="690" y="420.5" fill="#111">16</text>
+<circle cx="647" cy="414" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="647" y="418.5" fill="#111">17</text>
+<circle cx="602" cy="420" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="602" y="424.5" fill="#111">18</text>
+<circle cx="555" cy="420" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="555" y="424.5" fill="#111">19</text>
+<circle cx="510" cy="422" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="510" y="426.5" fill="#111">20</text>
+<circle cx="463" cy="436" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="463" y="440.5" fill="#111">21</text>
+<circle cx="445" cy="472" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="445" y="476.5" fill="#111">22</text>
+<circle cx="469" cy="498" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="469" y="502.5" fill="#111">23</text>
+<circle cx="517" cy="499" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="517" y="503.5" fill="#111">24</text>
+<circle cx="562" cy="495" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="562" y="499.5" fill="#111">25</text>
+<circle cx="609" cy="491" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="609" y="495.5" fill="#111">26</text>
+<circle cx="640" cy="519" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="640" y="523.5" fill="#111">27</text>
+<circle cx="668" cy="551" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="668" y="555.5" fill="#111">28</text>
+<circle cx="704" cy="572" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="704" y="576.5" fill="#111">29</text>
+<circle cx="748" cy="601" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="748" y="605.5" fill="#111">30</text>
+<circle cx="786" cy="629" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="786" y="633.5" fill="#111">31</text>
+<circle cx="792" cy="670" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="792" y="674.5" fill="#111">32</text>
+<circle cx="755" cy="704" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="755" y="708.5" fill="#111">33</text>
+<circle cx="705" cy="705" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="705" y="709.5" fill="#111">34</text>
+<circle cx="662" cy="711" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="662" y="715.5" fill="#111">35</text>
+<circle cx="620" cy="715" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="620" y="719.5" fill="#111">36</text>
+<circle cx="585" cy="716" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="585" y="720.5" fill="#111">37</text>
+<circle cx="533" cy="712" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="533" y="716.5" fill="#111">38</text>
+<circle cx="489" cy="703" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="489" y="707.5" fill="#111">39</text>
+<circle cx="457" cy="677" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="457" y="681.5" fill="#111">40</text>
+<circle cx="430" cy="633" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="430" y="637.5" fill="#111">41</text>
+<circle cx="403" cy="593" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="403" y="597.5" fill="#111">42</text>
+<circle cx="366" cy="569" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="366" y="573.5" fill="#111">43</text>
+<circle cx="326" cy="573" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="326" y="577.5" fill="#111">44</text>
+<circle cx="311" cy="612" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="311" y="616.5" fill="#111">45</text>
+<circle cx="306" cy="657" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="306" y="661.5" fill="#111">46</text>
+<circle cx="315" cy="705" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="315" y="709.5" fill="#111">47</text>
+<circle cx="350" cy="731" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="350" y="735.5" fill="#111">48</text>
+<circle cx="400" cy="745" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="400" y="749.5" fill="#111">49</text>
+<circle cx="444" cy="767" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="444" y="771.5" fill="#111">50</text>
+<circle cx="482" cy="795" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="482" y="799.5" fill="#111">51</text>
+<circle cx="511" cy="823" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="511" y="827.5" fill="#111">52</text>
+<circle cx="540" cy="858" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="540" y="862.5" fill="#111">53</text>
+<circle cx="576" cy="882" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="576" y="886.5" fill="#111">54</text>
+<circle cx="623" cy="890" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="623" y="894.5" fill="#111">55</text>
+<circle cx="670" cy="885" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="670" y="889.5" fill="#111">56</text>
+<circle cx="716" cy="879" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="716" y="883.5" fill="#111">57</text>
+<circle cx="762" cy="870" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="762" y="874.5" fill="#111">58</text>
+<circle cx="804" cy="862" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="804" y="866.5" fill="#111">59</text>
+<circle cx="848" cy="852" r="12" fill="white" fill-opacity="0.92" stroke="#702632" stroke-width="1.5"/>
+<text x="848" y="856.5" fill="#111">60</text>
+</g>
+<text x="30" y="1030" font-family="sans-serif" font-size="22" font-weight="bold">Proposition de relevé — À VALIDER</text>
+<text x="30" y="1060" font-family="sans-serif" font-size="17">0 = Départ ; 1–60 = parcours, cercles de régions inclus.</text>
+<text x="30" y="1090" font-family="sans-serif" font-size="17">Échelles proposées : 4 → 19 et 27 → 38. Tapis proposé : 56 → 33.</text>
+<text x="30" y="1120" font-family="sans-serif" font-size="17">Les centres et extrémités sont des observations visuelles à vérifier.</text>
+</svg>

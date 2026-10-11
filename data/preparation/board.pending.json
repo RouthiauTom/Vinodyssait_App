@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "status": "pending_owner_validation",
+  "sourceArchive": "VinodysSait_Game.zip",
+  "sourceEntry": "VinodysSait_Game/vinodys-sait-frontend/src/components/assets/Plateau_france.png",
+  "sourceDimensions": {
+    "width": 1000,
+    "height": 1000
+  },
+  "spaceCount": 60,
+  "startSpaceId": null,
+  "finishSpaceId": null,
+  "spaces": [],
+  "effects": [],
+  "validatedDecisions": {
+    "regionCirclesCountAsSpaces": true,
+    "initialPosition": "departure_space",
+    "departureDistinctFromLoire": true,
+    "firstSpaceAfterDeparture": "loire_region_circle",
+    "regionCircleQuestion": {
+      "categoryId": 5,
+      "regionSource": "landed_region_circle",
+      "levelSelection": false
+    },
+    "finishRule": {
+      "overshoot": "clamp_to_corsica",
+      "victoryRequiresCorrectAnswer": true,
+      "finalQuestion": {
+        "categoryId": 5,
+        "region": "corsica",
+        "levelSelection": false
+      },
+      "incorrectAnswer": "return_to_position_before_roll_after_correction"
+    },
+    "segmentColorCategories": {
+      "blue": 1,
+      "green": 2,
+      "black": 3,
+      "red": 4
+    },
+    "ladderResolution": {
+      "movementBeforeQuestion": true,
+      "questionSource": "ladder_destination_space",
+      "incorrectAnswer": "return_to_position_before_roll_after_correction"
+    },
+    "specialEffectTrigger": "landing_only",
+    "conveyorResolution": {
+      "correctPrimeur": "move_to_lower_endpoint",
+      "correctGrandCru": "move_to_lower_endpoint",
+      "correctMillesime": "stay_on_landed_space",
+      "incorrectAnswer": "return_to_position_before_roll_after_correction",
+      "timeout": "return_to_position_before_roll_after_correction",
+      "afterDescent": {
+        "askAnotherQuestion": false,
+        "turnEnds": true,
+        "nextPlayerTrigger": "explicit_button"
+      }
+    },
+    "spaceCountExcludesDeparture": true
+  }
+}
